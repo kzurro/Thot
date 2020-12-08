@@ -65,4 +65,9 @@ Para securizar el backend (API-REST) y el frontend se va autilizar [keycloak](ht
         spring.devtools.livereload.enabled=true
         spring.devtools.restart.poll-interval=2s
         spring.devtools.restart.quiet-period=1s
-```
+```  
+
+#  DIAGRAMAS  
+
+-  [Casos de Uso](https://viewer.diagrams.net/?highlight=0000ff&edit=_blank&layers=1&nav=1&title=CASOS%20DE%20USO.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fkzurro%2FThot-docs%2Fmain%2FCASOS%2520DE%2520USO.drawio)  
+-  [Clases de diseño](https://viewer.diagrams.net/?highlight=0000ff&edit=_blank&layers=1&nav=1&title=Thot.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fkzurro%2FThot-docs%2Fmain%2FThot.drawio)
